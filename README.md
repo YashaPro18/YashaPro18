@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @YashaPro18
-- 👀 I’m interested in AI and Data Analysis
-- 🌱 I’m currently learning AI and DS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋, I'm Yash Chavan
 
-<!---
-YashaPro18/YashaPro18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 AI & Data Science Student at SIT COE
+💻 Full Stack Developer Intern at Prismplus Technosoft LLP
+🌱 Currently learning Advanced Full Stack Development and AI Technologies
+🚀 Interested in Web Development, Data Analytics, and Software Engineering
+
+## 🛠️ Technical Skills
+
+* Angular
+* React
+* ASP.NET C#
+* JavaScript
+* TypeScript
+* Bootstrap
+* SQL Server
+* MongoDB
+* Python
+* Java
+
+## 📌 Projects
+
+* Event Management Dashboard
+* 3D Login Authentication System
+
+
+## 🤝 Looking to collaborate on
+
+* Full Stack Development Projects
+* Open Source Contributions
+* AI & Data Analytics Projects
+
+## 📫 Contact Me
+
+* GitHub: YashaPro18
+* LinkedIn: (https://www.linkedin.com/in/yash-chavan-390426318/)
+
+## ⚡ Fun Fact
+
+I enjoy building real-world projects and continuously learning new technologies.
