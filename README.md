@@ -15,8 +15,8 @@
 * Bootstrap
 * SQL Server
 * MongoDB
-* Python
 * Java
+* MERN
 
 ## 📌 Projects
 
